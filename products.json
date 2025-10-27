@@ -1,0 +1,22 @@
+[
+  { "id": 1, "nombre": "Laptop HP 15.6”", "precio": 13499, "imagen": "images/1.png" },
+  { "id": 2, "nombre": "Smartphone Samsung Galaxy A15", "precio": 4299, "imagen": "images/2.png" },
+  { "id": 3, "nombre": "Audífonos inalámbricos JBL Tune 510BT", "precio": 1099, "imagen": "images/3.png" },
+  { "id": 4, "nombre": "Mouse Logitech M170", "precio": 299, "imagen": "images/4.png" },
+  { "id": 5, "nombre": "Teclado mecánico Redragon Kumara", "precio": 999, "imagen": "images/5.png" },
+  { "id": 6, "nombre": "Monitor Samsung 24” Full HD", "precio": 2699, "imagen": "images/6.png" },
+  { "id": 7, "nombre": "Cafetera Oster 12 tazas", "precio": 899, "imagen": "images/7.png" },
+  { "id": 8, "nombre": "Refrigerador Mabe 11 pies cúbicos", "precio": 10499, "imagen": "images/8.png" },
+  { "id": 9, "nombre": "Televisor LG 50” 4K UHD Smart TV", "precio": 8299, "imagen": "images/9.png" },
+  { "id": 10, "nombre": "Parrilla eléctrica Black+Decker", "precio": 749, "imagen": "images/10.png" },
+  { "id": 11, "nombre": "Plancha Oster de vapor", "precio": 499, "imagen": "images/11.png" },
+  { "id": 12, "nombre": "Horno de microondas Daewoo 1.1 pies", "precio": 1399, "imagen": "images/12.png" },
+  { "id": 13, "nombre": "Batidora Hamilton Beach 6 velocidades", "precio": 599, "imagen": "images/13.png" },
+  { "id": 14, "nombre": "Aspiradora inalámbrica Xiaomi G10", "precio": 4299, "imagen": "images/14.png" },
+  { "id": 15, "nombre": "Smartwatch Amazfit Bip 5", "precio": 1899, "imagen": "images/15.png" },
+  { "id": 16, "nombre": "Bocina Bluetooth Sony SRS-XB13", "precio": 899, "imagen": "images/16.png" },
+  { "id": 17, "nombre": "Tablet Lenovo Tab M10 HD", "precio": 3699, "imagen": "images/17.png" },
+  { "id": 18, "nombre": "Consola Nintendo Switch OLED", "precio": 7899, "imagen": "images/18.png" },
+  { "id": 19, "nombre": "Cámara de seguridad TP-Link Tapo C200", "precio": 699, "imagen": "images/19.png" },
+  { "id": 20, "nombre": "Disco duro externo Seagate 1TB", "precio": 1299, "imagen": "images/20.png" }
+]
